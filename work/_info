@@ -1,0 +1,44 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Mina/Downloads/digital_ic_design/ass_1_3
+T_opt
+!s110 1751126530
+VNRKDeS`CY9SmabkQROeFm0
+04 7 4 work decoder fast 0
+=1-e8fb1c7d5795-68601202-64-2a08
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vdecoder
+!s110 1751126522
+!i10b 1
+!s100 Dh_E8nimk]z:6BmibXd;a1
+Ie_znb8zUT13:C[Wa;9AMI2
+dC:/Users/Mina/Downloads/digital_ic_design/ass_1_4
+w1751126515
+8C:/Users/Mina/Downloads/digital_ic_design/ass_1_4/decoder.v
+FC:/Users/Mina/Downloads/digital_ic_design/ass_1_4/decoder.v
+!i122 0
+L0 1 8
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1751126522.000000
+!s107 C:/Users/Mina/Downloads/digital_ic_design/ass_1_4/decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mina/Downloads/digital_ic_design/ass_1_4/decoder.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
